@@ -1,4 +1,4 @@
-pt:
+en:
   form_validation:
     message:
       required: "This value is required."
